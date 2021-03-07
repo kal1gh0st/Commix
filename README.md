@@ -43,12 +43,6 @@ To get a list of all options and switches use:
 
 To get an overview of commix available options, switches and/or basic ideas on how to use commix, check **[usage](https://github.com/commixproject/commix/wiki/Usage)** and **[usage examples](https://github.com/commixproject/commix/wiki/Usage-Examples)** wiki pages.
 
-
-## Donate
-
-Commix is the outcome of many hours of work and total personal dedication. Feel free to **[donate](https://www.paypal.com/gr/webapps/mpp/send-money-online)** via PayPal to `donations@commixproject.com` and instantly prove your ♥ for it!
-
-
 ## Links
 
 * User's manual: https://github.com/commixproject/commix/wiki
